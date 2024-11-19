@@ -7,6 +7,3 @@ dataset/*
 *.zip
 
 *.h5
-
-test/
-test/*
